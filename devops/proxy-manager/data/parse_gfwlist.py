@@ -1,7 +1,7 @@
 import re
 import os
 
-DATA_DIR = "/home/huangwc21/.hermes/skills/devops/proxy-manager/data"
+DATA_DIR = "/home/沐缘/.hermes/skills/devops/proxy-manager/data"
 GFW_RAW = os.path.join(DATA_DIR, "gfwlist_raw.txt")
 GFW_CLEAN = os.path.join(DATA_DIR, "gfwlist_domains.txt")
 

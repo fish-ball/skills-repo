@@ -2,7 +2,7 @@
 name: proxy-manager
 description: 智能网络代理管理器，支持自动路由、GFWList 分流与自动学习。
 version: 1.1.0
-author: huangwc21
+author: 沐缘
 license: MIT
 platforms: [linux, wsl]
 metadata:

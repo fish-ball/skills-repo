@@ -1,7 +1,7 @@
 import os
 import urllib.parse
 
-DATA_DIR = "/home/huangwc21/.hermes/skills/devops/proxy-manager/data"
+DATA_DIR = "/home/沐缘/.hermes/skills/devops/proxy-manager/data"
 USER_RULES = os.path.join(DATA_DIR, "user_rules.txt")
 AUTO_RULES = os.path.join(DATA_DIR, "auto_rules.txt")
 GFW_RULES = os.path.join(DATA_DIR, "gfwlist_domains.txt")
